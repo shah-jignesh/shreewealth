@@ -5,6 +5,24 @@
 .login-page{
   height: 100%;
   width: 100%;
-
-      
+  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(https://2.bp.blogspot.com/-qwDem6fJU_g/XxXcnIPGJ7I/AAAAAAAAAoA/uzhrMkc4FB8-SX9yO0Qhoz4Ipt7YDwSVACLcBGAsYHQ/s1600/Background%2B7.jpg);
+  background-size: cover;
+  background-position: center;
+  position: absolute;
 }
+.form-box{
+  width: 380px;
+  height: 480px;
+  position: relative;
+  margin: 6% auto;
+  background: #fff;
+  padding: 5px;      
+}
+.button-box{
+  width: 220px;
+  margin: 35px auto;
+  position: relative;
+  box-shadow: 0 0 20px 9px #ff61241f;
+  border-radius: 30px;  
+}
+
