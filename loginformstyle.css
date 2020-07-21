@@ -3,13 +3,13 @@ body{
     height: 100vh;
     background-size: cover;
     background-position: center;
- }
+}
 
 .login-page{
     width: 360px;
-    padding: 10% 0 0;
+    padding: 0 0 0;
     margin: auto;
- }
+}
 
 .form{
     position: relative;
@@ -19,7 +19,7 @@ body{
     margin: 0 auto 100px;
     padding: 45px;
     text-align: center;
- }
+}
 
 .form input{
     font-family: "Roboto", sans-serif;
@@ -31,7 +31,7 @@ body{
     padding: 15px;
     box-sizing: border-box;
     font-size: 14px;
- }
+}
 
 .form button{
     font-family: "Roboto", sans-serif;
@@ -44,8 +44,37 @@ body{
     color: #ffffff;
     font-size: 14px;
     cursor: pointer;
- }
+}
 
+.form button:hover,.form button:active{
+    background: #4CAF50;
+}
+.form .message{
+    margin 15px 0 0;
+    color: #000000;
+    font-size: 12px;    
+}
+
+.form .message a{
+    color: #4CAF50;
+    text-decoration: none;
+    
+}
+
+.form .login-form{
+    display:none;
+    
+}
+
+
+
+
+
+
+
+
+
+    
 
 
 
