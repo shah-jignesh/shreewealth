@@ -15,7 +15,7 @@
   width: 380px;
   height: 480px;
   position: relative;
-  margin: 6% auto;
+  margin: 5% auto;
   background: #fff;
   padding: 5px;
   overflow: hidden;
@@ -28,7 +28,7 @@
   border-radius: 30px;  
 }
 .toggle-btn{
-  padding: 10px 30px;
+  padding: 10px 20px;
   cursor: pointer;
   background: transparent;
   border: 0;
@@ -39,7 +39,7 @@
   top: 0;
   left: 0;
   position: absolute;
-  width: 110px;
+  width: 113px;
   height: 100%;
   background: linear-gradient(to right, #ff105f, #ffad06);
   border-radius: 30px;
