@@ -62,7 +62,7 @@ form input[type="submit"]{
 	background: #182d58;
 }
 form input[type="submit"]:hover{
-	background: #00afef;
+	background: #71d0f6;
 	transition: .5s;
 }
 form a{
