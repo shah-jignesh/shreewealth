@@ -6,16 +6,16 @@ body{
 }
 .center{
 	width: 430px;
-	margin: 130px auto;
+	margin: 172px auto;
 	position: absolute;
-	top: -47%;
+	top: -50%;
 }
 .center .header{
 	font-size: 28px;
 	font-weight: bold;
 	color: white;
 	padding: 25px 0 30px 25px;
-	background: #5c1769;
+	background: #182d58;
 	border-bottom: 1px solid #370e3f;
 	border-radius: 5px 5px 0 0;
 }
@@ -25,11 +25,11 @@ body{
 	width: 100%;
 	padding: 50px 10px 0 30px;
 	box-sizing: border-box;
-	border: 1px solid #6d1c7d;
+	border: 1px solid #182d58;
 	border-radius: 0 0 5px 5px;
 }
 form input{
-	height: 50px;
+	height: 45px;
 	width: 90%;
 	padding: 0 10px;
 	border-radius: 3px;
@@ -59,15 +59,15 @@ form input[type="submit"]{
 	line-height: 45px;
 	border-radius: 45px;
 	border-radius: 5px;
-	background: #5c1769;
+	background: #182d58;
 }
 form input[type="submit"]:hover{
-	background: #491254;
+	background: #00afef;
 	transition: .5s;
 }
 form a{
 	text-decoration: none;
 	font-size: 18px;
-	color: #7f2092;
-	padding: 0 0 0 20px;
+	color: #182d58;
+	padding: 0 0 0 92px;
 }
