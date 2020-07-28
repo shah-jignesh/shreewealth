@@ -2,9 +2,6 @@
 body{
 	margin: 0;
 	padding: 0;
-	background: radial-gradient(#a429bc,#9225a7,#7f2092);
-	height: 100vh;
-	overflow: hidden;
 	font-family: 'Noto Sans TC', sans-serif;
 }
 .center{
