@@ -8,8 +8,8 @@
   width: 100%;
   background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(https://2.bp.blogspot.com/-qwDem6fJU_g/XxXcnIPGJ7I/AAAAAAAAAoA/uzhrMkc4FB8-SX9yO0Qhoz4Ipt7YDwSVACLcBGAsYHQ/s1600/Background%2B7.jpg);
   background-size: cover;
-  background-position: center;
-  position: absolute;
+  background-position: center top;
+  position: relative;
 }
 .form-box{
   width: 380px;
