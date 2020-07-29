@@ -72,3 +72,19 @@ i.fa-lock{
 	color: #182d58;
 	padding: 0 0 0 37px;
 }
+.form input[type="reset"]{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	width: 130px;
+	height: 45px;
+	color: white;
+	cursor: pointer;
+	line-height: 45px;
+	border-radius: 45px;
+	border-radius: 5px;
+	background: #182d58;
+}
+.form input[type="reset"]:hover{
+	background: #00afef;
+	transition: .5s;
+}
