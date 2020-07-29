@@ -29,7 +29,7 @@ body{
 	border: 1px solid #182d58;
 	border-radius: 0 0 5px 5px;
 }
-form input{
+.form input{
 	height: 37px;
 	width: 90%;
 	padding: 0 10px;
@@ -38,10 +38,10 @@ form input{
 	font-size: 14px;
 	outline: none;
 }
-form input[type="password"]{
+.form input[type="password"]{
 	margin-top: 20px;
 }
-form i{
+.form i{
 	position: absolute;
 	font-size: 25px;
 	color: grey;
@@ -50,7 +50,7 @@ form i{
 i.fa-lock{
 	margin-top: 34px;
 }
-form input[type="submit"]{
+.form input[type="submit"]{
 	margin-top: 40px;
 	margin-bottom: 40px;
 	width: 130px;
@@ -62,11 +62,11 @@ form input[type="submit"]{
 	border-radius: 5px;
 	background: #182d58;
 }
-form input[type="submit"]:hover{
+.form input[type="submit"]:hover{
 	background: #00afef;
 	transition: .5s;
 }
-form a{
+.form a{
 	text-decoration: none;
 	font-size: 18px;
 	color: #182d58;
