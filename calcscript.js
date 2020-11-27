@@ -103,8 +103,8 @@ function calculateIt() {
       totalValueVal = lumpsum;
     }
     investedAmount.innerHTML = "₹ " + investedAmountVal.toLocaleString();
-    wealthGained.innerHTML = "â‚¹" + wealthGainedVal.toLocaleString();
-    totalValue.innerHTML = "â‚¹" + totalValueVal.toLocaleString();
+    wealthGained.innerHTML = "₹ " + wealthGainedVal.toLocaleString();
+    totalValue.innerHTML = "₹ " + totalValueVal.toLocaleString();
 
     if (!initialLoad) {
       chart.destroy();
